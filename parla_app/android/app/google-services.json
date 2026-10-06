@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157680316572",
+    "project_id": "parla-31d6f",
+    "storage_bucket": "parla-31d6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157680316572:android:455558b7088cff0cd9bd59",
+        "android_client_info": {
+          "package_name": "com.altisel.parla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxysOtOLak046Tk4Yq33sAYcQ7sk17aj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
